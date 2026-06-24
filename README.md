@@ -26,6 +26,7 @@ https://github.com/babypepper/munja-teumteum/releases/latest
 - 예약 수정 및 취소
 - SMS 권한과 배터리 제한 상태 확인
 - 문자틈틈 보관함 파일 사용
+- WIFI를 켜두어도 녹색문자로 발송
 
 ## 설치 방법
 
