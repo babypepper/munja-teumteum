@@ -75,3 +75,6 @@ https://github.com/babypepper/munja-teumteum/releases/latest
 ## 배포 저장소
 
 https://github.com/babypepper/munja-teumteum
+
+<img width="1080" height="2340" alt="KakaoTalk_20260624_210306870" src="https://github.com/user-attachments/assets/decb0782-277e-4760-b4e2-3c069be8d72a" />
+<img width="1080" height="2340" alt="KakaoTalk_20260624_210306870_01" src="https://github.com/user-attachments/assets/407f3862-e50f-4379-80aa-f11538313dc5" />
